@@ -1,0 +1,22 @@
+{
+  "name": "Test",
+  "description": "chrome 插件",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "storage",
+    "tabs"
+  ],
+  "action": {
+    "default_popup": "popup/popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.amazon.com/product-reviews/B09T5HCMTQ/*"],
+      "js": [ "getInformation.js"]
+    }
+  ]
+}
