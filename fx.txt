@@ -1,0 +1,41 @@
+1.Boeing, G. Spatial information and the legibility of urban form: Big data in urban morphology. Int. J. Inf. Manag. 2021, 56, 102013. [CrossRef]
+2.Bai, R.S.; Jiang, Y.P.; Jiang, J.D. Multi-Scale Analysis on Functional Structure of Ecological-Production-Living Spaces of Jianghuai Urban Agglomeration. Chin. Famous Cities 2016, 10, 21–28.
+3.Dalton, R.; Bafna, S. The syntactical image of the city: A reciprocal definition of spatial elements and space syntaxes. In Proceedings of the 4th International Space Syntax Symposium, London, UK, 17–19 June 2003.
+4.Yang, L.; Tian, Y. Art Design of Urban Public Space Based on Marine Culture. J. Coast. Res. 2020, 106, 427–430. [CrossRef]
+5.Xu, Y.; Rollo, J.; Esteban, Y. Evaluating Experiential Qualities of Historical Streets in Nanxun Canal Town through a Space Syntax Approach. Buildings 2021, 11, 544. [CrossRef]
+6.Yu, H.S.; Yang, J.; Li, T.; Jin, Y.; Sun, D.Q. Morphological and functional polycentric structure assessment of megacity: An integrated approach with spatial distribution and interaction. Sustain. Cities Soc. 2022, 80, 103800. [CrossRef]
+7.Guo, S.; Wang, S.; Chen, L. Research on the Regional Characteristics of Marine Coastal Architecture from the Perspective of Ecological Development. J. Coast. Res. 2020, 108, 221–225. [CrossRef]
+8.Esposito, D.; Santoro, S.; Camarda, D. Agent-Based Analysis of Urban Spaces Using Space Syntax and Spatial Cognition Approaches: A Case Study in Bari, Italy. Sustainability 2020, 12, 4625. [CrossRef]
+9.Hillier, B.; Leaman, A.; Stansall, P.; Bedford, M. Space syntax. Environ. Plan. B Plan. Des. 1976, 3, 147–185. [CrossRef]
+10.Chun, H.; Wang, N.; Liu, Y. Disaster Prevention Route Planning of Fenglin Ancient Village Based on Space Syntax Analysis. IOP Conf. Ser. Earth Environ. Sci. 2021, 781, 032009. [CrossRef]
+11.Chen, Y.; Chen, J. Analysis and Research on Spatial Nodes of Historical Villages based on Spatial Syntax Theory: Cuiwei Village in Qianshan Area of Zhuhai as an Example. J. Comput. Sci. Technol. Stud. 2022, 4, 7–34. [CrossRef]
+12.Zheng, Z.; Zhu, Q.; Fu, J. A Research on Pingshan Village’s Sustainable Development Based on Space Syntax Theory-Take the Improvement of Tourism Format Quality for Example. Landsc. Archit. 2019, 2. [CrossRef]
+13.Qi, L.; Liang, W.; Xi, M. The Public Space Pattern research of Guangfu Traditional Villages Based on space syntax: A Case Study of Huangpu Village in Guangzhou City, China. IOP Conf. Ser. Earth Environ. Sci. 2019, 2, 59–70. [CrossRef]
+14.Wang, F.; Chen, J.; Tong, S.; Zheng, X.; Ji, X. Construction and Optimization of Green Infrastructure Network Based on Space Syntax: A Case Study of Suining County, Jiangsu Province. Sustainability 2022, 14, 7732. [CrossRef]
+15.Zheng, W.; Du, N.; Wang, X. Understanding the City-transport System of Urban Agglomeration through Improved Space Syntax Analysis. Int. Reg. Sci. Rev. 2022, 45, 161–187. [CrossRef]
+16.Chen, Y.; Zhu, Q. Street network or functional attractors? Capturing pedestrian movement patterns and urban form with the integration of space syntax and MCDA. Urban Des. Int. 2022, prepublish. [CrossRef]
+17.Qi, B. Interactive Landscape Design of Ocean City Wetland Park. J. Coast. Res. 2020, 112, 26–28.
+18.Tian, Y.; Yang, L. Cultural and Artistic Design of Coastal Cities Based on Marine Landscape. J. Coast. Res. 2020, 106, 431–434. [CrossRef]
+19.Russo, F.; Rindone, C.; Panuccio, P. External Interactions for a Third Generation Port: From Urban Sustainable Planning to Research Developments. Int. J. Transp. Dev. Integr. 2022, 6, 253–270. [CrossRef]
+20.Penn, A. Space syntax and spatial cognition: Or why the axial line? Environ. Behav. 2003, 35, 30–65. [CrossRef]
+21.Mora, R. The Cognitive Roots of Space Syntax. Ph.D. Thesis, Faculty of the Built Environment, The Bartlett, University College London, London, UK, 2009. Available online: http://discovery.ucl.ac.uk/18920/1/18920.pdf (accessed on 20 October 2022).
+22.Geng, S.; Chau, H.-W.; Jamei, E.; Vrcelj, Z. Understanding the Street Layout of Melbourne’s Chinatown as an Urban Heritage Precinct in a Grid System Using Space Syntax Methods and Field Observation. Sustainability 2022, 14, 12701. [CrossRef]
+23.Li, Y.; Xiao, L.; Ye, Y.; Xu, W.; Law, A. Understanding tourist space at a historic site through space syntax analysis: The case of Gulangyu, China. Tour. Manag. 2016, 52, 30–43. [CrossRef]
+24.Safari, H.; Nazidizaji, S.; Fakouri Moridani, F. Social Logic of Cities and Urban Tourism Accessibility; Space Syntax Analysis of Kuala Lumpur City Centre. Space Ontol. Int. J. 2018, 7, 35–46.
+25.Ali, H.H.; Al-Hashimi, I.A.; Al-Samman, F. Investigating the applicability of sustainable urban form and design to traditional cities, case study: The old city of sana’a. Int. J. Archit. Res. ArchNet-IJAR 2018, 12, 57. [CrossRef]
+26.Siregar, J.P.; Surjono; Rukmi, W.I.; Kurniawan, E.B. Evaluating accessibility to city parks utilizing a space syntax method. A case study: City parks in Malang city. IOP Conf. Ser. Earth Environ. Sci. 2021, 916, 012015. [CrossRef]
+27.Yin, L.; Wang, T.; Adeyeye, K. A Comparative Study of Urban Spatial Characteristics of the Capitals of Tang and Song Dynasties Based on Space Syntax. Urban Sci. 2021, 5, 34. [CrossRef]
+28.Yamu, C.; van Nes, A.; Garau, C. Bill Hillier’s Legacy: Space Syntax—A Synopsis of Basic Concepts, Measures, and Empirical Application. Sustainability 2021, 13, 3394. [CrossRef]
+29.Laura, B.; Alvarez. A Beginner’s Guide to Urban Design and Development: The ABC of Quality, Sustainable Design; Taylor and Francis: Abingdon, UK, 2022.
+30.Salama, S.W. Towards developing sustainable design standards for waterfront open spaces. City Territ. Archit. 2022, 9, 26. [CrossRef]
+31.Arora, N.K.; Mishra, I. Ocean sustainability: Essential for blue planet. Environ. Sustain. 2020, 3, 1–3. [CrossRef]
+32.Pierce, C.H. Boston—A Maritime City with a Continental Climate: A Part Time Air Conditioned City. Weatherwise 2010, 14, 138–141. [CrossRef]
+33.Harris, P. Urban renewal of a Pacific maritime city. -Sydney’s redevelopment. Paper presented to the Pan Pacific Congress of Real Estate Appraisers, Valuers and Counselors (18th: 1996: Sydney). Valuer Land Econ. 1996, 34, 164–168.
+34.Hwang, Y.W.; Yhang, W.J. International Tourists’ Attitude to Theme Park Development of Busan. J. Navig. Port Res. 2003, 27, 345–349. [CrossRef]
+35.Sepe, M. Urban history and cultural resources in urban regeneration: A case of creative waterfront renewal. Plan. Perspect. 2013,28, 595–613. [CrossRef]
+36.Cheng, L.; Feng, R.; Wang, L. Fractal Characteristic Analysis of Urban Land-Cover Spatial Patterns with Spatiotemporal Remote Sensing Images in Shenzhen City (1988–2015). Remote Sens. 2021, 13, 4640. [CrossRef]
+37.Liu, X.; Huang, B.; Li, R.; Zhang, J.; Gou, Q.; Zhou, T.; Huang, Z. Wind environment assessment and planning of urban natural ventilation corridors using GIS: Shenzhen as a case study. Urban Clim. 2022, 42, 101091. [CrossRef]
+38.Liu, X.; Sang, X.; Chang, J.; Zheng, Y.; Han, Y. Sensitivity analysis and prediction of water supply and demand in Shenzhen based on an ELRF algorithm and a self-adaptive regression coupling model. Water Supply 2022, 22, 278–293. [CrossRef]
+39.Cheng, H.; Lai, Y.; De, T. Decoding the decision-making in the new wave of urban redevelopment in China: A case study of a bottom-up industrial land redevelopment in Shenzhen. Land Use Policy 2021, 111, 105774. [CrossRef]
+40.Deng, W.; Luo, W. Activation of Traditional Villages in Dapeng New District, Shenzhen, China—A Case Study on Wangmu walled-village. IOP Conf. Ser. Earth Environ. Sci. 2021, 783, 012115. [CrossRef]
+41.Hsieh, C.M. Sustainable planning and design: Urban climate solutions for healthy, livable urban and rural areas. J. Urban Manag.2021, prepublish. [CrossRef]
